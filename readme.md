@@ -24,29 +24,6 @@ The Weather App is a sleek and responsive application built using **HTML**, **CS
 
 ---
 
-## 🛠️ Installation and Usage
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-   ```
-
-2. **Navigate to the Project Directory**:
-
-   ```bash
-   cd weather-app
-   ```
-
-3. **Open the Application**:
-
-   - Open the `index.html` file in your preferred web browser.
-
-4. **Enter a City Name**:
-   - Use the search bar to input a city name and retrieve real-time weather updates.
-
----
-
 ## 🎯 Future Enhancements
 
 - Implement a 7-day weather forecast.
