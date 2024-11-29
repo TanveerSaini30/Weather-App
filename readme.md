@@ -60,18 +60,3 @@ The Weather App is a sleek and responsive application built using **HTML**, **CS
 We welcome contributions! Feel free to fork the repository, submit a pull request, or open an issue for discussion on major changes or features.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for further details.
-
----
-
-## 🌟 Acknowledgments
-
-- [OpenWeather API](https://openweathermap.org/api) for providing reliable, real-time weather data.
-- Modern web development practices that inspired the design and functionality.
-
----
-
-Explore, contribute, and enhance this project as you see fit. Happy coding! 😊
